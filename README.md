@@ -1,2 +1,2 @@
-# plsql-toolbox
- A set of procedures to solve small daily challenge.
+# PL/SQL Toolbox :hammer:
+ A set of procedures to solve small daily challenges.
